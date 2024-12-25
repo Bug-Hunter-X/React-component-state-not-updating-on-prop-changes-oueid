@@ -1,0 +1,1 @@
+This React component uses the correct lifecycle method, `componentDidUpdate`, to update the state based on props changes. This ensures the state updates whenever the props change.
